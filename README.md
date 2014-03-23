@@ -2,7 +2,7 @@
 
 Here are some things you might find:
 
-* [Weird Recipes](weird_recipes)
+* [Weird Recipes](weird_recipes.md)
 * Cooking Tips
 
 
